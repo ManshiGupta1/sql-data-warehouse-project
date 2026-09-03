@@ -8,7 +8,7 @@ The project follows a layered approach from source data → Bronze → Silver �
 
 The project follows a layered Medallion Architecture consisting of Bronze, Silver, and Gold layers.
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/data-architecture.png)
 
 ---
 
